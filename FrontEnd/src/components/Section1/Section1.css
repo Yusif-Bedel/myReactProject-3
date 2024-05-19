@@ -1,0 +1,62 @@
+.section1 .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sect1Bottom{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    width: 100%;
+}
+.sect1Cats{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    gap: 20px;  
+    width: 100%; 
+}
+.sect1Cat1{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    width: 60%;
+    background-color: #f8fbff;
+    cursor: pointer;
+}
+.sect1Cat2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    background-color: #f8fbff;
+    cursor: pointer;
+}
+.sect1Text{
+    display: flex;
+    justify-content: start;
+    align-items: start  ;
+    flex-direction: column;
+    gap: 30px;
+}
+.sect1Text p{
+    font-size: 15px;
+    color: gray;
+}
+.sect1Text h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+.auu{
+    color: #ff3368;
+    font-weight: bold;
+    font-size: 16px;
+
+    
+}

@@ -1,0 +1,28 @@
+nav{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+nav .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+nav a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black    ;
+}
+.navIcons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

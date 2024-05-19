@@ -1,0 +1,12 @@
+.s2card span{
+font-size: 32px;
+font-weight: bold;
+}
+.s2card h3{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.s2card{
+    max-width: 150px;
+    border: none;
+}
